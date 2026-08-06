@@ -1,3 +1,4 @@
+Also available on Nexus Mods: https://www.nexusmods.com/minecraft/mods/1237?tab=description
 Installation instructions: - If you haven't already, download and install the Modrinth App and link your Minecraft account, and create a GitHub account.
 - If you already have an instance with a supported CPM version and mod loader, you can skip this step. 
 Tap the plus sign to create a new instance, select a mod loader (preferably Fabric), and select a Minecraft version that can be found in the CPM supported versions page which is almost every major Minecraft version.
@@ -16,3 +17,4 @@ Here is where you need that GitHub account:
 -In your browser, go to your gist, paste the text you copied next to the "1" and now click "Create Secret Gist." This will upload that string of code to GitHub servers. You should now be viewing your Gist. Copy the address from your browser's address bar, go back to Minecraft, and paste it in the box under "And paste it's URL here." Now simply press "Ok." 
 And that's it!!!
 You can now safely close the editor. and if your skin isn't showing up in game, re-launch Mnecraft, wait a couple minutes, or check your internet. If nothing is working PLEASE report it in Issues because I know how annoying it is when stuff like this happens and devs don't respond. I will try to get back with you as soon as possible!
+there is a bug where if your using First Person Model mod, the head will hide upon loading in. to fix this, you can toggle the rendering or leave the world while in third person and rejoin. thanks for downloading!
