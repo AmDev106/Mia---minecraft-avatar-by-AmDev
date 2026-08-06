@@ -1,4 +1,5 @@
 Also available on Nexus Mods: https://www.nexusmods.com/minecraft/mods/1237?tab=description
+Customizable Player Models mod: https://modrinth.com/mod/custom-player-modelsdels
 Installation instructions: - If you haven't already, download and install the Modrinth App and link your Minecraft account, and create a GitHub account.
 - If you already have an instance with a supported CPM version and mod loader, you can skip this step. 
 Tap the plus sign to create a new instance, select a mod loader (preferably Fabric), and select a Minecraft version that can be found in the CPM supported versions page which is almost every major Minecraft version.
