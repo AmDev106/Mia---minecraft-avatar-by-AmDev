@@ -1,3 +1,4 @@
+<img width="2560" height="1441" alt="2026-08-06_14 17 21" src="https://github.com/user-attachments/assets/ed80da38-087f-4963-b120-a0c45b6a96af" />
 Also available on Nexus Mods: https://www.nexusmods.com/minecraft/mods/1237?tab=description
 Customizable Player Models mod: https://modrinth.com/mod/custom-player-modelsdels
 
