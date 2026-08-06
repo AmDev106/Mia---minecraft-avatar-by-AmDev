@@ -22,3 +22,5 @@ Here is where you need that GitHub account:
 And that's it!!!
 You can now safely close the editor. and if your skin isn't showing up in game, re-launch Mnecraft, wait a couple minutes, or check your internet. If nothing is working PLEASE report it in Issues because I know how annoying it is when stuff like this happens and devs don't respond. I will try to get back with you as soon as possible!
 there is a bug where if your using First Person Model mod, the head will hide upon loading in. to fix this, you can toggle the rendering or leave the world while in third person and rejoin. thanks for downloading!
+<img width="1920" height="1080" alt="crouchedpose" src="https://github.com/user-attachments/assets/33ad0a20-9a8c-44d0-8aa1-09f27128d2d3" />
+<img width="1920" height="1080" alt="running" src="https://github.com/user-attachments/assets/a3126eab-c6cf-4aee-91e5-23c6478a3a0a" />
