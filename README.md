@@ -1,11 +1,17 @@
 <img width="2560" height="1441" alt="2026-08-06_14 17 21" src="https://github.com/user-attachments/assets/ed80da38-087f-4963-b120-a0c45b6a96af" />
 Also available on Nexus Mods: https://www.nexusmods.com/minecraft/mods/1237?tab=description
 Customizable Player Models mod: https://modrinth.com/mod/custom-player-modelsdels
+
+
 Description
+
 Mia is a red haired and almost fully nude custom character I animated and modeled in Customizable Player Models mod. She is not based on any real person or fictional characters, I wrote her character myself and designed her off of things just think are cool, like red hair, pony tails, green eyes, subtle emo/goth elements. 
 In mod is a .cpmpoject file, a readme, and two png images. the .cpm project file holds the data for the custom skin that features the realistic anatomy and animations. The images are for what players without the required mod who will so a normal minecraft skin with your choice of a sfw and a nsfw version. More info in install instructions!
 idk why but i feel like saying that I did not make her out of objectification, I am simply embracing the beauty of anatomy paired with alternative hair/fashion styles. this is not a "slut" thing, just felt worth mentioning. 
+
+
 Installation instructions
+
 - If you haven't already, download and install the Modrinth App and link your Minecraft account, and create a GitHub account.
 - If you already have an instance with a supported CPM version and mod loader, you can skip this step. 
 Tap the plus sign to create a new instance, select a mod loader (preferably Fabric), and select a Minecraft version that can be found in the CPM supported versions page which is almost every major Minecraft version.
